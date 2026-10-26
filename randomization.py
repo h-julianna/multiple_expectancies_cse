@@ -57,7 +57,7 @@ def build_block(start):
     for j in range(N_TRIPLETS):
         for k in range(3):
             block.append({
-                "role": "analysed", "triplet_id": j,
+                "role": "analysed", "triplet_id": j + 1,
                 "triplet_type": triplet_label(assignment[j]),
                 "position_in_triplet": k + 1,
                 "subcategory": (start + N_FIRSTTHREE + 3 * j + k) % 4,
@@ -81,6 +81,12 @@ def generate_blocks():
         for trial in block:
             if trial["role"] == "buffer":
                 trial["congruency"] = next(it)
+
+    #trial number within blocks (1-99, buffer trials are 1-3)
+    for block in blocks:
+        for i, trial in enumerate(block, start=1):
+            trial["trial_number"] = i
+
 
     print("Stage 1 passed!")
     return blocks
