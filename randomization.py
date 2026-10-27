@@ -110,22 +110,26 @@ def make_stimulus(subcategory, congruency, target_index):
 
 
 def assign_stimuli(blocks):
+    #Balance the target stimulus within every block x pairing x congruency x
+    #triplet position cell (4 trials per cell -> exactly 2 per target). This makes
+    #each block exactly 6/6 per pairing x congruency cell (e.g. 1-1, 8-8, 1->8, 8->1).
     print("Stage 2: Assigning stimuli.")
     cells = {}
-    for block in blocks:
+    for b, block in enumerate(blocks):
         for trial in block:
             if trial["role"] == "buffer":
                 trial.update(make_stimulus(trial["subcategory"], trial["congruency"], random.randint(0, 1)))
             else:
-                cells.setdefault((trial["subcategory"], trial["congruency"]), []).append(trial)
+                key = (b, trial["subcategory"], trial["congruency"], trial["position_in_triplet"])
+                cells.setdefault(key, []).append(trial)
 
-    for (sub, con), trials in cells.items():
+    for trials in cells.values():
         targets = [0, 1] * (len(trials) // 2)
         if len(trials) % 2:
             targets.append(random.randint(0, 1))
         random.shuffle(targets)
         for trial, t in zip(trials, targets):
-            trial.update(make_stimulus(sub, con, t))
+            trial.update(make_stimulus(trial["subcategory"], trial["congruency"], t))
 
     print("Stage 2 passed!")
     return True
@@ -169,6 +173,9 @@ def validate(blocks):
     check(cell.nunique() == 1 and len(cell) == 8, "pairing x congruency cells equal")
     tgt = ana.groupby(["pairing", "congruency", "target_index"]).size()
     check(tgt.nunique() == 1 and len(tgt) == 16, "target stimulus balanced within every cell")
+    per_blk = ana.groupby(["block", "pairing", "congruency", "target_index"]).size()
+    check(per_blk.nunique() == 1 and len(per_blk) == N_BLOCKS * 16,
+          "target stimulus balanced within every block (6 per combination)")
     pos = ana.groupby(["pairing", "position_in_triplet", "congruency"]).size()
     check(pos.nunique() == 1 and len(pos) == 24, "pairing x triplet position x congruency equal")
 
