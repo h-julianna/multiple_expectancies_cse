@@ -91,12 +91,21 @@ const probe = {
     stimulus_duration: durations.probe_stim_duration,
     trial_duration: durations.probe_trial_duration,
     response_ends_trial: false,
+
     data: {
-        task: 'probe',
-        correct_response: jsPsych.timelineVariable('correct_response'),
-        congruency: jsPsych.timelineVariable('congruency'),
-        name: jsPsych.timelineVariable('name')
+    task: 'probe',
+    correct_response: jsPsych.timelineVariable('correct_response'),
+    congruency: jsPsych.timelineVariable('congruency'),
+    name: jsPsych.timelineVariable('name'),
+    block: jsPsych.timelineVariable('block'),
+    role: jsPsych.timelineVariable('role'),
+    trial_number: jsPsych.timelineVariable('trial_number'),
+    triplet_id: jsPsych.timelineVariable('triplet_id'),
+    triplet_type: jsPsych.timelineVariable('triplet_type'),
+    position_in_triplet: jsPsych.timelineVariable('position_in_triplet'),
+    pairing: jsPsych.timelineVariable('pairing')
     },
+    
     on_finish: function (data) {
         //console.log('Response data:', data);
         //console.log('Key pressed:', data.response);
@@ -142,7 +151,8 @@ function format_prime_probe_trials(trial, block_index) {
         trial_number:trial.trial_number,
         triplet_id:trial.triplet_id,
         triplet_type:trial.triplet_type,
-        position_in_triplet:trial.position_in_triplet
+        position_in_triplet:trial.position_in_triplet,
+        pairing: trial.pairing
     }
 
 }
