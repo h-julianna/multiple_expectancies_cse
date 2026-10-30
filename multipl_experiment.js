@@ -295,6 +295,7 @@ const experimental_blocks = blocks.map(
     })
 );
 
+timeline.push(...practice_experiment());
 timeline.push(...experimental_blocks);
 jsPsych.run(timeline);
 }
