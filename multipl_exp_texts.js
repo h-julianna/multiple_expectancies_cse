@@ -92,8 +92,7 @@ const experiment_text = {"hun":{
                 <p style="text-align: center;"><em>Amennyiben készen állsz a kísérlet megkezdésére, nyomd meg a space billentyűt!</em></p>`,
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Kedves Résztvevő!</h3></p>
-				<p>Köszönjük, hogy részt vettél a kutatásunkban! ((())).</p>
-				<p>((())) </p> 
+				<p>Köszönjük, hogy részt vettél a kutatásunkban!</p>
 				<p>Ha bármilyen észrevételed, vagy kérdésed lenne a kutatással kapcsolatban írj a <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a>címre!</p>`},
 "eng":{
 	"probe1": "1",
@@ -205,7 +204,6 @@ When you are ready, press the space bar to begin.</p>
 				<p style="text-align: center;"><em>When you are ready to begin the main experiment, press the spacebar!</em></p></div>`,
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Dear Participant!</h3></p>
-				<p>Thank you for participating in our study! In this experiment, we were interested in how ((())).</p>
-				<p>((())).</p> 
+				<p>Thank you for participating in our study! In this experiment, we were interested in how.</p>
 				<p>If you have any comments or questions about the study, please contact us at <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a></p>`
 }}

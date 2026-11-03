@@ -350,8 +350,14 @@ const experimental_blocks = blocks.map(
     })
 );
 
+const experiment_end = {
+    type: jsPsychHtmlButtonResponse,
+    stimulus: experiment_text[lang]["debrief"],
+    choices: [experiment_text[lang]["finish"]],
+};
+
 timeline.push(...practice_experiment());
-timeline.push(...experimental_blocks);
+timeline.push(...experimental_blocks, experiment_end);
 jsPsych.run(timeline);
 }
 
