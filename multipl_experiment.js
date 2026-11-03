@@ -1,4 +1,8 @@
-//browser check ide
+//browser check
+ if (navigator.userAgent.includes("Safari") && !navigator.userAgent.includes("Chrome")) {
+    alert("A Safari ebben a kutatásban nem támogatott böngésző. Kérlek használj Chrome-ot vagy Firefoxot!");
+    throw new Error("Safari not supported");
+ }
 
 //url params
 let queryString = window.location.search;
@@ -32,7 +36,7 @@ const timeline = [];
 //stimulus time parameters
 let durations = {
     prime_duration: debug ? 1 : 133,
-    blank_duration: debug ? 1 : 1000,
+    blank_duration: debug ? 1 : 33,
     probe_stim_duration: debug ? 1 : 133,
     probe_trial_duration: debug ? 1 : 1000
 }
@@ -41,7 +45,7 @@ console.log('Running in JATOS: ', running_jatos);
 console.log('Debug mode: ', debug);
 console.log('Language: ', lang);
 
-//flagging practice block to later exclude it from money calculation
+
 let in_practice = true;
 
 //fixation
@@ -281,6 +285,55 @@ const block_intro = (block_index) => ({
     }
 );
 
+//Intermission between experimental blocks
+
+let countdown;
+let intermission_count = 0;
+const block_intermission = {
+  type: jsPsychHtmlKeyboardResponse,
+  stimulus: function() {
+    if (lang === "eng") {
+        return `
+      <div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px">
+        <p><strong>End of block.</strong></p>
+        <p>Take a short break, then press any key to start the next block. Try to respond as quickly and accurately as possible!</p>
+        <p><strong>The next block will automatically start in 2 minutes.</strong></p>
+        <p id="timer" style="font-size: 28px; color: darkred;">Starting in: 2:00</p>
+      </div>`;
+    }     
+    return `
+      <div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px">
+        <p><strong>Blokk vége.</strong></p>
+        <p>Pihenj egy kicsit, majd nyomj meg egy billentyűt a következő blokk kezdéséhez. Törekedj a minél gyorsabb és pontosabb válaszadásra!</p>
+        <p><strong>A következő blokk automatikusan elindul 2 perc múlva.</strong></p>
+        <p id="timer" style="font-size: 28px; color: darkred;">Kezdés: 2:00</p>
+      </div>`;
+  },
+  choices: debug ? "NO_KEYS" : "ALL_KEYS",
+  trial_duration: debug ? 1 : 120000,
+  on_load: function() {
+    intermission_count++;
+    console.log(`Intermission screen appeared (#${intermission_count})`);
+    if (debug) return;
+    let timeLeft = debug ? 1 : 120;
+    const label = lang === "eng" ? "Starting in" : "Kezdés";
+    const timerDisplay = document.getElementById('timer');
+    const countdown = setInterval(() => {
+      timeLeft--;
+      const minutes = Math.floor(timeLeft / 60);
+      const seconds = timeLeft % 60;
+      timerDisplay.textContent = `Kezdés: ${minutes}:${seconds.toString().padStart(2, '0')}`;
+      if (timeLeft <= 0) clearInterval(countdown);
+    }, 1000);
+  },
+  on_finish: function() {
+    clearInterval(countdown);
+  },
+  data: {
+    task: 'intermission',
+  }
+};
+
 const trial_sequence = {
     timeline: [fixation, prime, blank, probe],
     randomize_order: false
@@ -288,7 +341,9 @@ const trial_sequence = {
 
 const experimental_blocks = blocks.map(
     (block_stimuli, i) => ({
-        timeline: [block_intro(i), {...trial_sequence, timeline_variables: block_stimuli}],
+        timeline: [block_intro(i), {...trial_sequence, timeline_variables: block_stimuli},
+        ...(i < blocks.length - 1 ? [block_intermission] : [])
+        ],
         on_timeline_start: () => {
             console.log(`Starting block ${i + 1} with stimuli:`, block_stimuli);
         }
@@ -318,7 +373,7 @@ try {
 	var lang = urlParams.get("lang") || "hun";
 	var debug = urlParams.get("debug") === "1" ? 1 : 0;
 	    console.log("Jatos was NOT loaded, starting experiment in vanilla mode...")
-	my_timeline = main_experiment(debug = 1, lang, experiment_text) 
+	my_timeline = main_experiment(debug = 1, lang = "hun", experiment_text) 
 	startExperiment(my_timeline)
 	    console.log("started experiment")
 

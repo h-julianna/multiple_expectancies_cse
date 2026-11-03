@@ -16,7 +16,11 @@ const experiment_text = {"hun":{
 	"prime7":"7<br>7<br>7",
 	"prime8":"8<br>8<br>8",
     "welcome":`<img src="images/University_logo.png" alt="images/University Logo" style="width: 300px; display: block; margin: auto;">
-            	<h2>welcome to the arena!</h2>`,
+	<h2>Üdvözlünk a Metatudomány kutatócsoport vizsgálatában!</h2>
+                <p>Egy tudományos kutatásban veszel részt, amelynek vezetője Bognár Miklós, az ELTE Affektív Pszichológia Tanszékének kutatója.</p>
+              <h3>Részvétel</h3>
+                <p>A kutatásban való részvétel teljesen önkéntes. A vizsgálatot bármikor indoklás nélkül megszakíthatod. FIGYELEM: A KÍSÉRLET VILLÓDZÓ FÉNYEKET TARTALMAZ. 
+                Ha bármilyen kérdésed, észrevételed vagy problémád van a kutatással kapcsolatban, írj Bognár Miklósnak a <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a> címre.</p>`,
 	"button_press":`Tovább`,
 	"yes/no": ["Igen", "Nem"],
 	"finish":`Vége`,
@@ -57,21 +61,21 @@ const experiment_text = {"hun":{
 	"gender":`Melyik nemmel azonosulsz?`,
 	"gender_options":["Férfi", "Nő", "Nem-bináris", "Nem szeretném megosztani"],
 	"instruction":`<h2>Instrukciók</h2>
-                <p>PLACEHOLDER EX-TEXT! 
-                A kísérlet során iránymegjelöléseket fogsz olvasni (FEL, LE, JOBB, BAL). Először egy prime inger fog megjelenni a képernyőn, amin egy irány (pl.: „FEL”) lesz olvasható egymás alatt háromszor. 
-                Ezt követően megjelenik a célinger, ami vagy azonos („FEL”) vagy ellentétes („LE”) lesz az előtte bemutatott iránnyal.
-                A feladatod az lesz, hogy minél gyorsabban és pontosabban eltaláld a célinger irányát a hozzárendelt billentyű megnyomásával.</p> 
-                <p>A kísérletet {{MONEY}} garassal kezded. Amikor a célinger <span style="color: #FF3B3B; font-weight: bold;">piros</span> színű, akkor 47 garast vonunk le tőled.
-                Ha viszont <span style="color: #00E676; font-weight: bold;">zöld</span> színű célingert látsz, 47 garas a jutalmad. 
-                A neutrális próbákat három szín fogja jelölni: <span style="color: #2979FF; font-weight: bold;">kék</span>, <span style="color: #FFD700; font-weight: bold;">sárga</span> és <span style="color: #E040FB; font-weight: bold;">rózsaszín</span>. Ezeknél a próbáknál sem jutalom, sem büntetés nem jár.</p> 
-								<p>Minden blokk végén látni fogod, mennyi garassal rendelkezel. Az utolsó blokk végén a kísérletért járó pontszám az eredményedtől függ: 1800 garas alatt 2,5 pont, 2200 garas felett 3,5 pont, a kettő között pedig a kiinduló 3 pont marad. </p>
+                <p>
+                A kísérlet során számingereket fogsz látni (1, 2, 3, 4, 5, 6, 7, 8). Először egy prime inger fog megjelenni a képernyőn, amin egy szám (pl.: „1”) lesz olvasható egymás alatt háromszor. 
+                Ezt követően megjelenik a célinger, amely a prime ingerrel azonos („1”), vagy pedig nem megegyező („8”) lesz.
+                A feladatod az lesz, hogy minél gyorsabban és pontosabban eltaláld a célinger számát a hozzárendelt billentyű megnyomásával.</p>
 								<h3>Figyelem: A pontszerzés feltétele, hogy az ingerek minimum 60%-át helyesen megválaszold.</h3>
 								<h3>60%-os teljesítmény alatt (túl lassú, vagy pontatlan válaszoknál) 0 pontot kapsz a kísérletre. </h3>
                 <p>Kérlek helyezd a billentyűzetre a kezedet a képen látható módon:</p>
-                <p>A bal gyűrűsujjadat tedd az <span class='key'>A</span>-ra. Ez lesz a "BAL" irány. 
-                A jobb gyűrűsujjadat az <span class='key'>L</span>-re, ez fogja jelölni a "JOBB" irányt. 
-                A jobb mutató ujjadat helyezd az <span class='key'>N</span>-re, ez lesz a "LE" irány. 
-                Míg a bal középső ujjadat pedig tedd az <span class='key'>E</span>-re, ami a "FEL" irányt fogja jelölni! </p>
+                <p>A bal kisujjadat tedd az <span class='key'>1</span>-re.
+                A jobb kisujjadat a <span class='key'>8</span>-ra.
+                A bal gyűrűsujjadat helyezd a <span class='key'>2</span>-re. 
+                A jobb gyűrűsujjadat tedd a <span class='key'>7</span>-re.
+				A bal középső ujjadat helyezd a <span class='key'>3</span>-ra.
+				A jobb középső ujjadat helyezd a <span class='key'>6</span>-ra.
+				A bal mutatóujjadat helyezd a <span class='key'>4</span>-re.
+				A jobb mutatóujjadat pedig tedd az <span class='key'>5</span>-re.</p>
                 <img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: 40%;">
                 <p style="text-align: center;"><em>Amennyiben készen állsz a kísérlet megkezdésére, nyomd meg a space billentyűt!</em></p>`,
 "practice_instruction":`<h2>Gyakorló blokk</h2>
@@ -79,34 +83,38 @@ const experiment_text = {"hun":{
 	"practice_intermission":`<div style="text-align: center; max-width: 800px
 	; margin: auto; font-size: 24px;">
 				<p>Még egy rövid gyakorló blokk következik.<br>
-				 Törekedj a minél gyorsabb és pontosabb válaszadásra! <br> Ha készen állsz, nyomj meg egy tetszőleges billentyűt a kezdéshez.</p>
-				<p><strong>A blokk automatikusan elindul 2 perc múlva.</strong></p>
-				<p id="timer" style="font-size: 28px; color: darkred;">Kezdés: 2:00</p></div>`,
+				 Törekedj a minél gyorsabb és pontosabb válaszadásra! <br> Ha készen állsz, nyomj meg egy tetszőleges billentyűt a kezdéshez.</p>`,
 	"practice_feedback_slow":`<div style='font-size:35px;'>Túl lassú!</div>`,
 	"practice_feedback_incorrect":`<div style='font-size:35px;'>Hibás válasz!</div>`,
 	"practice_end":`<p> A gyakorló rész véget ért. A kísérleti blokkok következnek. A kísérleti blokkokban nem fogsz visszajelzést kapni, ha túl lassú, vagy hibás választ adtál. Törekedj a minél gyorsabb és pontosabb válaszadásra!
-        		Ne feledd, <span style="color: #FF3B3B; font-weight: bold;">piros</span> próbák esetén 47 garast vonunk le tőled. <span style="color: #00E676; font-weight: bold;">Zöld</span> próbák esetén 47 garast kapsz.
 				Ha készen állsz, nyomd meg a space billentyűt a kezdéshez.</p>
 				<img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: auto;">
                 <p style="text-align: center;"><em>Amennyiben készen állsz a kísérlet megkezdésére, nyomd meg a space billentyűt!</em></p>`,
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Kedves Résztvevő!</h3></p>
-				<p>Köszönjük, hogy részt vettél a kutatásunkban! Ebben a kísérletben arra voltunk kíváncsiak, hogy a jutalmazó, illetve büntető ingerek miként befolyásolják a reakcióidőt ebben a válaszinterferencia feladatban.</p>
-				<p>A részvételednek köszönhetően lehetőségünk van megvizsgálni, azt hogy a büntetetés és a jutalmazás milyen hatással van agyunk egyik alapvető adaptációs mechanizmusára, melyet kognitív kontrollnak nevezünk. </p> 
+				<p>Köszönjük, hogy részt vettél a kutatásunkban! ((())).</p>
+				<p>((())) </p> 
 				<p>Ha bármilyen észrevételed, vagy kérdésed lenne a kutatással kapcsolatban írj a <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a>címre!</p>`},
 "eng":{
-	"downprobe":"down",
-	"upprobe": "up",
-	"leftprobe": "left",
-	"rightprobe":"right",
-	"downprime":"down<br>down<br>down",
-	"upprime":"up<br>up<br>up",
-	"leftprime":"left<br>left<br>left",
-	"rightprime":"right<br>right<br>right",
+	"probe1": "1",
+	"probe2": "2",
+	"probe3": "3",
+	"probe4":"4",
+	"probe5": "5",
+	"probe6": "6",
+	"probe7": "7",
+	"probe8": "8",
+	"prime1":"1<br>1<br>1",
+	"prime2":"2<br>2<br>2",
+	"prime3":"3<br>3<br>3",
+	"prime4":"4<br>4<br>4",
+	"prime5":"5<br>5<br>5",
+	"prime6":"6<br>6<br>6",
+	"prime7":"7<br>7<br>7",
+	"prime8":"8<br>8<br>8",
 	"welcome":`<img src="images/University_logo.png" alt="University Logo" style="width: 300px; display: block; margin: auto;">
 				<h2>Welcome to the study of the Metascience lab!</h2>
-				<p>You are taking part in a scientific study led by Miklós Bognár, a researcher at the Department of Affective Psychology at Eötvös Loránd University (ELTE).
-				The aim of this study is to examine how different types of stimuli affect reaction time.</p>
+				<p>You are taking part in a scientific study led by Miklós Bognár, a researcher at the Department of Affective Psychology at Eötvös Loránd University (ELTE).</p>
 				<h3>Participation</h3>
 				<p>Participation in this study is entirely voluntary. You may withdraw from the study at any time without providing a reason. ATTENTION: This experiment contains flashing lights.
 				If you have any questions, comments, or concerns regarding the study, please contact Miklós Bognár at <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a>.</p>`,
@@ -152,9 +160,34 @@ const experiment_text = {"hun":{
 	"neptun":`What is your NEPTUN code?`,
 	"gender":`What is your gender?`,
 	"gender_options": ["Male", "Female", "Non-binary", "Prefer not to say"],
-	"instruction":`<h2>Instructions</h2>
-				<p>EX-TEXT PLACEHOLDEEEEEEEEEER
-				<p style="text-align: center;"><em>When you are ready to begin the experiment, press the spacebar!</em></p>`,
+	"instruction":`<h2>Instrukciók</h2>
+    	<p>
+    	During this experiment you will see numerical stimuli (1, 2, 3, 4, 5, 6, 7, 8). First, a prime stimulus will appear on the screen, showing a single number (e.g., "1") repeated three times, one below the other.
+    	Next, the target stimulus will appear. It will be either identical to the prime ("1") or different from it ("8").
+		Your task is to identify the number shown in the target stimulus as quickly and as accurately as possible by pressing the key assigned to it.</p>
+		<h3>Attention: To earn credit, you must respond correctly to at least 60% of the stimuli.</h3>
+		<h3>If your performance falls below 60% (because your responses are too slow or inaccurate), you will receive 0 points for the experiment.</h3>
+		<p>Please place your hands on the keyboard as shown in the picture:</p>
+		<p>Place your left little finger on <span class='key'>1</span>.
+		Your right little finger on <span class='key'>8</span>.
+		Place your left ring finger on <span class='key'>2</span>.
+		Place your right ring finger on <span class='key'>7</span>.
+		Place your left middle finger on <span class='key'>3</span>.
+		Place your right middle finger on <span class='key'>6</span>.
+		Place your left index finger on <span class='key'>4</span>.
+		Place your right index finger on <span class='key'>5</span>.</p>
+		<img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: 40%;">
+		<p style="text-align: center;"><em>When you are ready to begin the experiment, press the space bar.</em></p>`,
+"practice_instruction":`<h2>Practice Block</h2>
+<p>A short practice block will follow before the experiment begins. You must respond correctly on at least 80% of the trials; otherwise, the practice block will restart. Try to respond as quickly and as accurately as possible. When you are ready, press any key to begin.</p>`,
+"practice_intermission":`<div style="text-align: center; max-width: 800px
+; margin: auto; font-size: 24px;">
+<p>Another short practice block will follow.<br>
+ Try to respond as quickly and as accurately as possible. <br> When you are ready, press any key to begin.</p>`,
+"practice_end":`<p>The practice section is now complete. The experimental blocks will follow. In the experimental blocks, you will not receive feedback if your response is too slow or incorrect. Try to respond as quickly and as accurately as possible.
+When you are ready, press the space bar to begin.</p>
+<img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: auto;">
+<p style="text-align: center;"><em>When you are ready to begin the experiment, press the space bar.</em></p>`,
 	"practice_instruction":`<h2>Practice Block</h2>
 				<p>Before the main experiment begins, you will complete a short practice block. You must correctly complete at least 80% of the trials, otherwise the practice block will start over. Try to respond as quickly and accurately as possible! When you are ready, press any key to begin.</p>`,
 	"practice_intermission":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px">
@@ -166,15 +199,13 @@ const experiment_text = {"hun":{
 	"practice_feedback_incorrect": `<div style='font-size:35px;'>Incorrect response!</div>`,
 	"practice_end":`<p>The practice block has ended. The main experimental blocks will follow.
 				During the experimental blocks, you will not receive feedback if your response is too slow or incorrect. Try to respond as quickly and accurately as possible!
-				Remember, <span style="color: #FF3B3B; font-weight: bold;">red</span> trials will deduct 47 coins from your total. 
-				<span style="color: #00E676; font-weight: bold;">Green</span> trials will add 47 coins to your total.
 				When you are ready, press the spacebar to begin.</p>
 				<br> 
 				<img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: auto;"> 
 				<p style="text-align: center;"><em>When you are ready to begin the main experiment, press the spacebar!</em></p></div>`,
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Dear Participant!</h3></p>
-				<p>Thank you for participating in our study! In this experiment, we were interested in how rewarding and punishing stimuli affect reaction time in a response interference task.</p>
-				<p>Your participation allows us to examine how punishment and reward influence one of the fundamental adaptive mechanisms of our brain, known as cognitive control.</p> 
+				<p>Thank you for participating in our study! In this experiment, we were interested in how ((())).</p>
+				<p>((())).</p> 
 				<p>If you have any comments or questions about the study, please contact us at <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a></p>`
 }}
