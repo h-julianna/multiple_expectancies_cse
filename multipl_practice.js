@@ -1,9 +1,13 @@
-function practice_experiment() {
+function practice_experiment(debug, lang) {
+    console.log("Practice debug:", debug, "lang:", lang);
+
+const PRACTICE_PAIRS = [["1", "9"], ["2", "8"], ["3", "7"], ["4", "6"]];
+const PRACTICE_REPEATS = 5;
 
     //practice settings
     const practice_settings = {
         cutoff: 1000,
-        feedback_duration: 700,
+        feedback_duration: debug ? 1 : 700,
         accuracy_threshold: 0.8,
     }
 
@@ -12,7 +16,7 @@ function practice_experiment() {
     //practice_intro
     const practice_intro = {
         type: jsPsychHtmlKeyboardResponse,
-        stimulus: practice_text["hun"]["practice_intro"],
+        stimulus: practice_text[lang]["practice_intro"],
         choices: [' '],
         data: {
             task: 'practice_intro'
@@ -22,7 +26,7 @@ function practice_experiment() {
     //practice_end
     const practice_end = {
         type: jsPsychHtmlKeyboardResponse,
-        stimulus: practice_text["hun"]["practice_end"],
+        stimulus: practice_text[lang]["practice_end"],
         choices: [' '],
         data: {
             task: 'practice_end'
@@ -34,7 +38,7 @@ function practice_experiment() {
         type: jsPsychHtmlKeyboardResponse,
         stimulus: '<div style="font-size:9vh;">+</div>',
         choices: "NO_KEYS",
-        trial_duration: 500,
+        trial_duration: debug ? 1 : 500,
         data: {
             task: 'practice_fixation'
         }
@@ -45,11 +49,11 @@ function practice_experiment() {
         type: jsPsychHtmlKeyboardResponse,
         stimulus: function () {
             const primestim = jsPsych.evaluateTimelineVariable('prime')
-            const myprime = experiment_text["hun"][primestim]
+            const myprime = experiment_text[lang][primestim]
             return `<span style="font-size:7vh; line-height: 0.9; color:white;">${myprime}</span>`
         },
         choices: 'NO_KEYS',
-        trial_duration: 300,
+        trial_duration: debug ? 1 : 133,
         data: {
             task: 'practice_prime'
         }
@@ -60,7 +64,7 @@ function practice_experiment() {
         type: jsPsychHtmlKeyboardResponse,
         stimulus: '',
         choices: 'NO_KEYS',
-        trial_duration: 1000,
+        trial_duration: debug ? 1 : 33,
         data: {
             task: 'practice_blank'
         }
@@ -71,12 +75,12 @@ function practice_experiment() {
         type: jsPsychHtmlKeyboardResponse,
         stimulus: function () {
             const probestim = jsPsych.evaluateTimelineVariable('probe')
-            const myprobe = experiment_text["hun"][probestim]
+            const myprobe = experiment_text[lang][probestim]
             return `<span style="font-size:7vh; line-height: 0.9; color:white;">${myprobe}</span>`
         },
-        choices: ['1', '2', '3', '4', '5', '6', '7', '8'],
-        stimulus_duration: 300,
-        trial_duration: 2000,
+        choices: ['1', '2', '3', '4', '6', '7', '8', '9'],
+        stimulus_duration: debug ? 1 : 133,
+        trial_duration: debug ? 1 : 1000,
         response_ends_trial: false,
 
         data: {
@@ -100,14 +104,15 @@ function practice_experiment() {
             const last = jsPsych.data.get().last(1).values()[0];
             const too_slow = last.response === null || last.rt > practice_settings.cutoff;
             const wrong = last.response !== null && last.response !== last.correct_response;
+            if (debug) return "<div></div>";
             if (too_slow && wrong) {
-                return practice_text["hun"]["wrong"] + '<br>' + practice_text["hun"]["too_slow"];
+                return practice_text[lang]["wrong"] + '<br>' + practice_text[lang]["too_slow"];
             }
             if (too_slow) {
-                return practice_text["hun"]["too_slow"];
+                return practice_text[lang]["too_slow"];
             }
             if (wrong) {
-                return practice_text["hun"]["wrong"];
+                return practice_text[lang]["wrong"];
             }
             return "<div></div>";
         },
@@ -118,76 +123,60 @@ function practice_experiment() {
         }
     }
 
-    //practice_make_block  //will build the block for any pair
-    const practice_make_block = function (first, second) {
-        const all_trials = [
-            { prime: "prime" + first, probe: "probe" + second, correct_response: second, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + first, probe: "probe" + first, correct_response: first, congruency: "congruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + first, correct_response: first, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + second, correct_response: second, congruency: "congruent", pairing: first + "-" + second },
 
-            { prime: "prime" + first, probe: "probe" + second, correct_response: second, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + first, probe: "probe" + first, correct_response: first, congruency: "congruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + first, correct_response: first, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + second, correct_response: second, congruency: "congruent", pairing: first + "-" + second },
+    const make_trial = (prime, probe, pairing) => ({
+        prime: "prime" + prime,
+        probe: "probe" + probe,
+        correct_response: probe,
+        congruency: prime === probe ? "congruent" : "incongruent",
+        pairing: pairing,
+        combo: prime + "-" + probe
+    });
 
-            { prime: "prime" + first, probe: "probe" + second, correct_response: second, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + first, probe: "probe" + first, correct_response: first, congruency: "congruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + first, correct_response: first, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + second, correct_response: second, congruency: "congruent", pairing: first + "-" + second },
-
-            { prime: "prime" + first, probe: "probe" + second, correct_response: second, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + first, probe: "probe" + first, correct_response: first, congruency: "congruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + first, correct_response: first, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + second, correct_response: second, congruency: "congruent", pairing: first + "-" + second },
-
-            { prime: "prime" + first, probe: "probe" + second, correct_response: second, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + first, probe: "probe" + first, correct_response: first, congruency: "congruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + first, correct_response: first, congruency: "incongruent", pairing: first + "-" + second },
-            { prime: "prime" + second, probe: "probe" + second, correct_response: second, congruency: "congruent", pairing: first + "-" + second }
+    const practice_trials = PRACTICE_PAIRS.flatMap(([a, b]) => {
+        const pairing = a + "-" + b;
+        return [
+            make_trial(a, a, pairing),
+            make_trial(a, b, pairing),
+            make_trial(b, b, pairing),
+            make_trial(b, a, pairing)
         ];
+    });
 
-        //practice_instruction
-        const practice_instruction = {
+    //shown only when the practice has to be repeated
+        const practice_retry = {
+        timeline: [{
             type: jsPsychHtmlKeyboardResponse,
-            stimulus: function () {
-                if (practice_failed) {
-                    return practice_text["hun"]["failed_block"] + practice_text["hun"]["instruction_" + first + "_" + second];
-                }
-                return practice_text["hun"]["instruction_" + first + "_" + second];
-            },
+            stimulus: practice_text[lang]["failed_block"],
             choices: [' '],
             data: {
-                task: 'practice_instruction'
+                task: 'practice_retry'
             }
-        };
-
-        const practice_run = {
-            timeline: [practice_fixation, practice_prime, practice_blank, practice_probe, practice_feedback],
-            timeline_variables: all_trials,
-            randomize_order: false
-        };
-
-        const practice_block = {
-            timeline: [practice_instruction, practice_run],
-            loop_function: function (data) {
-                const probe_trials = data.filter({ task: "practice_probe" });
-                const correct_trials = probe_trials.filter({ correct: true });
-                const accuracy = correct_trials.count() / probe_trials.count();
-                practice_failed = accuracy < practice_settings.accuracy_threshold;
-                return practice_failed;
-            }
+        }],
+        conditional_function: function () {
+            return practice_failed;
         }
-
-        return practice_block;
     };
 
-    return [practice_intro,
-        practice_make_block("1", "8"),
-        practice_make_block("2", "7"),
-        practice_make_block("3", "6"),
-        practice_make_block("4", "5"),
-        practice_end
-    ];
 
+    const practice_run = {
+        timeline: [practice_fixation, practice_prime, practice_blank, practice_probe, practice_feedback],
+        timeline_variables: practice_trials,
+        repetitions: PRACTICE_REPEATS,
+        randomize_order: false
+    };
+
+    //the 80% accuracy rule is applied to the whole practice (all repetitions together)
+    const practice_block = {
+        timeline: [practice_retry, practice_run],
+        loop_function: function (data) {
+            const probe_trials = data.filter({ task: "practice_probe" });
+            const correct_trials = probe_trials.filter({ correct: true });
+            const accuracy = debug ? 1 : correct_trials.count() / probe_trials.count();
+            practice_failed = accuracy < practice_settings.accuracy_threshold;
+            return practice_failed;
+        }
+    };
+
+    return [practice_intro, practice_block, practice_end];
 }

@@ -10,12 +10,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 1,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "buffer",
@@ -25,12 +25,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 2,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "buffer",
@@ -40,12 +40,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 3,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -55,12 +55,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 4,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -70,12 +70,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -85,12 +85,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 6,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -100,12 +100,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 7,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -115,12 +115,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -130,12 +130,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 9,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -145,12 +145,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 10,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -160,12 +160,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 11,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -175,12 +175,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 12,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -190,12 +190,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 13,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -205,12 +205,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -220,12 +220,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 15,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -235,12 +235,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 16,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -250,12 +250,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 17,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -265,12 +265,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 18,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -280,12 +280,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 19,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -295,12 +295,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 20,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -310,12 +310,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 21,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -325,12 +325,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 22,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -340,12 +340,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 23,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -355,12 +355,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 24,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -370,12 +370,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 25,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -385,12 +385,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 26,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -400,12 +400,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 27,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -415,12 +415,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 28,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -430,12 +430,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 29,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -445,12 +445,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 30,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -460,12 +460,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 31,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -475,12 +475,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 32,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -490,12 +490,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 33,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -505,12 +505,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 34,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -520,12 +520,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 35,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -535,12 +535,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 36,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -550,12 +550,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 37,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -565,12 +565,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 38,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -580,12 +580,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 39,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -595,12 +595,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 40,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -610,12 +610,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 41,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -625,12 +625,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 42,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -640,12 +640,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 43,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -655,12 +655,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 44,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -670,12 +670,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 45,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -685,12 +685,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 46,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -700,12 +700,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 47,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -715,12 +715,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 48,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -730,12 +730,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 49,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -745,12 +745,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 50,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -760,12 +760,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 51,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -775,12 +775,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 52,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -790,12 +790,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 53,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -805,12 +805,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 54,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -820,12 +820,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 55,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -835,12 +835,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 56,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -850,12 +850,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 57,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -865,12 +865,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 58,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -880,12 +880,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -895,12 +895,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 60,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -910,12 +910,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -925,12 +925,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 62,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -940,12 +940,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 63,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -955,12 +955,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 64,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -970,12 +970,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 65,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -985,12 +985,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 66,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1000,12 +1000,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 67,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1015,12 +1015,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 68,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1030,12 +1030,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 69,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1045,12 +1045,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 70,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1060,12 +1060,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 71,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1075,12 +1075,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 72,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1090,12 +1090,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 73,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1105,12 +1105,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 74,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1120,12 +1120,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 75,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1135,12 +1135,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 76,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1150,12 +1150,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 77,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -1165,12 +1165,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 78,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1180,12 +1180,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 79,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -1195,12 +1195,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 80,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1210,12 +1210,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 81,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1225,12 +1225,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 82,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1240,12 +1240,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 83,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1255,12 +1255,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 84,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1270,12 +1270,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 85,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -1285,12 +1285,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 86,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1300,12 +1300,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 87,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1315,12 +1315,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 88,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1330,12 +1330,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 89,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1345,12 +1345,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 90,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1360,12 +1360,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 91,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1375,12 +1375,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 92,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1390,12 +1390,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 93,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1405,12 +1405,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 94,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1420,12 +1420,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 95,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1435,12 +1435,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 96,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1450,12 +1450,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 97,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -1465,12 +1465,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 98,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1480,12 +1480,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 99,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         }
       ],
       [
@@ -1497,12 +1497,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 1,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "buffer",
@@ -1512,12 +1512,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 2,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "buffer",
@@ -1527,12 +1527,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 3,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1542,12 +1542,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 4,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1557,12 +1557,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1572,12 +1572,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 6,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -1587,12 +1587,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 7,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1602,12 +1602,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -1617,12 +1617,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 9,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1632,12 +1632,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 10,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1647,12 +1647,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 11,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1662,12 +1662,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 12,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1677,12 +1677,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 13,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1692,12 +1692,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1707,12 +1707,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 15,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1722,12 +1722,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 16,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1737,12 +1737,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 17,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1752,12 +1752,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 18,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1767,12 +1767,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 19,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1782,12 +1782,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 20,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1797,12 +1797,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 21,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1812,12 +1812,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 22,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -1827,12 +1827,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 23,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -1842,12 +1842,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 24,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1857,12 +1857,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 25,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -1872,12 +1872,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 26,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -1887,12 +1887,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 27,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1902,12 +1902,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 28,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1917,12 +1917,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 29,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1932,12 +1932,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 30,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -1947,12 +1947,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 31,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -1962,12 +1962,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 32,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -1977,12 +1977,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 33,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -1992,12 +1992,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 34,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2007,12 +2007,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 35,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2022,12 +2022,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 36,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2037,12 +2037,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 37,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2052,12 +2052,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 38,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2067,12 +2067,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 39,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2082,12 +2082,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 40,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2097,12 +2097,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 41,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2112,12 +2112,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 42,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2127,12 +2127,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 43,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2142,12 +2142,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 44,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2157,12 +2157,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 45,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2172,12 +2172,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 46,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2187,12 +2187,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 47,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2202,12 +2202,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 48,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -2217,12 +2217,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 49,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2232,12 +2232,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 50,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2247,12 +2247,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 51,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2262,12 +2262,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 52,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2277,12 +2277,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 53,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2292,12 +2292,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 54,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2307,12 +2307,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 55,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2322,12 +2322,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 56,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2337,12 +2337,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 57,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2352,12 +2352,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 58,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2367,12 +2367,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2382,12 +2382,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 60,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -2397,12 +2397,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2412,12 +2412,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 62,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2427,12 +2427,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 63,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2442,12 +2442,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 64,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2457,12 +2457,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 65,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2472,12 +2472,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 66,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2487,12 +2487,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2502,12 +2502,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 68,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -2517,12 +2517,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 69,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2532,12 +2532,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 70,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2547,12 +2547,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 71,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2562,12 +2562,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 72,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2577,12 +2577,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 73,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2592,12 +2592,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 74,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2607,12 +2607,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 75,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2622,12 +2622,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 76,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -2637,12 +2637,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 77,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2652,12 +2652,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 78,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2667,12 +2667,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 79,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2682,12 +2682,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 80,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2697,12 +2697,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 81,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2712,12 +2712,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 82,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2727,12 +2727,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 83,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2742,12 +2742,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 84,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2757,12 +2757,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 85,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2772,12 +2772,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 86,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2787,12 +2787,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 87,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2802,12 +2802,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 88,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2817,12 +2817,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 89,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2832,12 +2832,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 90,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2847,12 +2847,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 91,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -2862,12 +2862,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 92,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -2877,12 +2877,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 93,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -2892,12 +2892,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 94,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -2907,12 +2907,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 95,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -2922,12 +2922,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 96,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -2937,12 +2937,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 97,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -2952,12 +2952,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 98,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -2967,12 +2967,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 99,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         }
       ],
       [
@@ -2984,12 +2984,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 1,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "buffer",
@@ -2999,12 +2999,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 2,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "buffer",
@@ -3014,12 +3014,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 3,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3029,12 +3029,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 4,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3044,12 +3044,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3059,12 +3059,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 6,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3074,12 +3074,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 7,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3089,12 +3089,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3104,12 +3104,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 9,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3119,12 +3119,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 10,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3134,12 +3134,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 11,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3149,12 +3149,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 12,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3164,12 +3164,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 13,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3179,12 +3179,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3194,12 +3194,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 15,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3209,12 +3209,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 16,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3224,12 +3224,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 17,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3239,12 +3239,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 18,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3254,12 +3254,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 19,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3269,12 +3269,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 20,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3284,12 +3284,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 21,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3299,12 +3299,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 22,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3314,12 +3314,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 23,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3329,12 +3329,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 24,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3344,12 +3344,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 25,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3359,12 +3359,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 26,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3374,12 +3374,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 27,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3389,12 +3389,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 28,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3404,12 +3404,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 29,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3419,12 +3419,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 30,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3434,12 +3434,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 31,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3449,12 +3449,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 32,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3464,12 +3464,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 33,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3479,12 +3479,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 34,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3494,12 +3494,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 35,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3509,12 +3509,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 36,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3524,12 +3524,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 37,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3539,12 +3539,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 38,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3554,12 +3554,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 39,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3569,12 +3569,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 40,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3584,12 +3584,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 41,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3599,12 +3599,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 42,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3614,12 +3614,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 43,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3629,12 +3629,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 44,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3644,12 +3644,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 45,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -3659,12 +3659,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 46,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3674,12 +3674,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 47,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3689,12 +3689,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 48,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3704,12 +3704,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 49,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3719,12 +3719,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 50,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3734,12 +3734,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 51,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3749,12 +3749,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 52,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3764,12 +3764,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 53,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3779,12 +3779,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 54,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3794,12 +3794,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 55,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3809,12 +3809,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 56,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -3824,12 +3824,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 57,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3839,12 +3839,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 58,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3854,12 +3854,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3869,12 +3869,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 60,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3884,12 +3884,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3899,12 +3899,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 62,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -3914,12 +3914,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 63,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -3929,12 +3929,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 64,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -3944,12 +3944,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 65,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -3959,12 +3959,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 66,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -3974,12 +3974,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -3989,12 +3989,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 68,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4004,12 +4004,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 69,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4019,12 +4019,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 70,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4034,12 +4034,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 71,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -4049,12 +4049,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 72,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4064,12 +4064,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 73,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4079,12 +4079,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 74,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4094,12 +4094,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 75,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -4109,12 +4109,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 76,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4124,12 +4124,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 77,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4139,12 +4139,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 78,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4154,12 +4154,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 79,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4169,12 +4169,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 80,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4184,12 +4184,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 81,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4199,12 +4199,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 82,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4214,12 +4214,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 83,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4229,12 +4229,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 84,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4244,12 +4244,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 85,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4259,12 +4259,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 86,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4274,12 +4274,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 87,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4289,12 +4289,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 88,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4304,12 +4304,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 89,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4319,12 +4319,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 90,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4334,12 +4334,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 91,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -4349,12 +4349,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 92,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4364,12 +4364,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 93,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4379,12 +4379,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 94,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4394,12 +4394,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 95,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4409,12 +4409,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 96,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4424,12 +4424,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 97,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4439,12 +4439,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 98,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4454,12 +4454,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 99,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         }
       ],
       [
@@ -4471,12 +4471,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 1,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "buffer",
@@ -4486,12 +4486,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 2,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "buffer",
@@ -4501,12 +4501,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 3,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4516,12 +4516,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 4,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4531,12 +4531,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 5,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4546,12 +4546,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 6,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4561,12 +4561,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 7,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4576,12 +4576,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4591,12 +4591,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 9,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4606,12 +4606,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 10,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4621,12 +4621,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 11,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4636,12 +4636,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 12,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4651,12 +4651,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 13,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4666,12 +4666,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4681,12 +4681,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 15,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4696,12 +4696,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 16,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4711,12 +4711,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 17,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4726,12 +4726,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 18,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4741,12 +4741,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 19,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4756,12 +4756,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 20,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4771,12 +4771,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 21,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4786,12 +4786,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 22,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4801,12 +4801,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 23,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4816,12 +4816,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 24,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4831,12 +4831,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 25,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4846,12 +4846,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 26,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -4861,12 +4861,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 27,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4876,12 +4876,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 28,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -4891,12 +4891,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 29,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -4906,12 +4906,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 30,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -4921,12 +4921,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 31,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -4936,12 +4936,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 32,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -4951,12 +4951,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 33,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -4966,12 +4966,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 34,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -4981,12 +4981,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 35,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -4996,12 +4996,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 36,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5011,12 +5011,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 37,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5026,12 +5026,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 38,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5041,12 +5041,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 39,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5056,12 +5056,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 40,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5071,12 +5071,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 41,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5086,12 +5086,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 42,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5101,12 +5101,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 43,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5116,12 +5116,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 44,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5131,12 +5131,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 45,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5146,12 +5146,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 46,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -5161,12 +5161,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 47,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5176,12 +5176,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 48,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5191,12 +5191,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 49,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5206,12 +5206,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 50,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -5221,12 +5221,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 51,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5236,12 +5236,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 52,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5251,12 +5251,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 53,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5266,12 +5266,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 54,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5281,12 +5281,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 55,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5296,12 +5296,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 56,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5311,12 +5311,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 57,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5326,12 +5326,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 58,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5341,12 +5341,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -5356,12 +5356,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 60,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5371,12 +5371,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5386,12 +5386,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 62,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5401,12 +5401,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 63,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5416,12 +5416,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 64,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5431,12 +5431,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 65,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5446,12 +5446,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 66,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -5461,12 +5461,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -5476,12 +5476,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 68,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5491,12 +5491,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 69,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5506,12 +5506,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 70,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5521,12 +5521,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 71,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -5536,12 +5536,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 72,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5551,12 +5551,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 73,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5566,12 +5566,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 74,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5581,12 +5581,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 75,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -5596,12 +5596,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 76,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5611,12 +5611,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 77,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5626,12 +5626,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 78,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5641,12 +5641,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 79,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -5656,12 +5656,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 80,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5671,12 +5671,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 81,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5686,12 +5686,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 82,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -5701,12 +5701,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 83,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -5716,12 +5716,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 84,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5731,12 +5731,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 85,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5746,12 +5746,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 86,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -5761,12 +5761,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 87,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5776,12 +5776,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 88,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -5791,12 +5791,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 89,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5806,12 +5806,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 90,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5821,12 +5821,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 91,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5836,12 +5836,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 92,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5851,12 +5851,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 93,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -5866,12 +5866,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 94,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -5881,12 +5881,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 95,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -5896,12 +5896,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 96,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -5911,12 +5911,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 97,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -5926,12 +5926,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 98,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -5941,12 +5941,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 99,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         }
       ],
       [
@@ -5958,12 +5958,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 1,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "buffer",
@@ -5973,12 +5973,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 2,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "buffer",
@@ -5988,12 +5988,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 3,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6003,12 +6003,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 4,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6018,12 +6018,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6033,12 +6033,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 6,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -6048,12 +6048,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 7,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6063,12 +6063,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6078,12 +6078,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 9,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6093,12 +6093,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 10,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6108,12 +6108,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 11,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6123,12 +6123,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 12,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6138,12 +6138,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 13,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6153,12 +6153,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 14,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6168,12 +6168,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 15,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6183,12 +6183,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 16,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6198,12 +6198,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 17,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6213,12 +6213,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 18,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6228,12 +6228,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 19,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6243,12 +6243,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 20,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6258,12 +6258,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 21,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6273,12 +6273,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 22,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6288,12 +6288,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 23,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6303,12 +6303,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 24,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6318,12 +6318,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 25,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6333,12 +6333,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 26,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -6348,12 +6348,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 27,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6363,12 +6363,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 28,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6378,12 +6378,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 29,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6393,12 +6393,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 30,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6408,12 +6408,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 31,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6423,12 +6423,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 32,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6438,12 +6438,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 33,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6453,12 +6453,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 34,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6468,12 +6468,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 35,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6483,12 +6483,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 36,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6498,12 +6498,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 37,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6513,12 +6513,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 38,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -6528,12 +6528,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 39,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6543,12 +6543,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 40,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6558,12 +6558,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 41,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6573,12 +6573,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 42,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -6588,12 +6588,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 43,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6603,12 +6603,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 44,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6618,12 +6618,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 45,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6633,12 +6633,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 46,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -6648,12 +6648,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 47,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6663,12 +6663,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 48,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6678,12 +6678,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 49,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6693,12 +6693,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 50,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6708,12 +6708,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 51,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6723,12 +6723,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 52,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6738,12 +6738,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 53,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6753,12 +6753,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 54,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6768,12 +6768,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 55,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6783,12 +6783,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 56,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6798,12 +6798,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 57,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6813,12 +6813,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 58,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -6828,12 +6828,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6843,12 +6843,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 60,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6858,12 +6858,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -6873,12 +6873,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 62,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6888,12 +6888,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 63,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -6903,12 +6903,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 64,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -6918,12 +6918,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 65,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6933,12 +6933,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 66,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -6948,12 +6948,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -6963,12 +6963,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 68,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -6978,12 +6978,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 69,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -6993,12 +6993,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 70,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7008,12 +7008,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 71,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7023,12 +7023,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 72,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7038,12 +7038,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 73,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7053,12 +7053,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 74,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7068,12 +7068,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 75,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7083,12 +7083,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 76,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7098,12 +7098,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 77,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7113,12 +7113,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 78,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7128,12 +7128,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 79,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7143,12 +7143,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 80,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7158,12 +7158,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 81,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7173,12 +7173,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 82,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7188,12 +7188,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 83,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7203,12 +7203,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 84,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7218,12 +7218,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 85,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7233,12 +7233,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 86,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7248,12 +7248,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 87,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7263,12 +7263,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 88,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7278,12 +7278,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 89,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -7293,12 +7293,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 90,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7308,12 +7308,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 91,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7323,12 +7323,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 92,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7338,12 +7338,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 93,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -7353,12 +7353,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 94,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7368,12 +7368,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 95,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7383,12 +7383,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 96,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7398,12 +7398,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 97,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -7413,12 +7413,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 98,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7428,12 +7428,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 99,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         }
       ],
       [
@@ -7445,12 +7445,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 1,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "buffer",
@@ -7460,12 +7460,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 2,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "buffer",
@@ -7475,12 +7475,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 3,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7490,12 +7490,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 4,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -7505,12 +7505,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7520,12 +7520,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 6,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7535,12 +7535,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 7,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7550,12 +7550,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 8,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7565,12 +7565,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 9,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7580,12 +7580,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 10,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7595,12 +7595,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 11,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7610,12 +7610,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 12,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7625,12 +7625,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 13,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7640,12 +7640,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7655,12 +7655,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 15,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7670,12 +7670,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 16,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7685,12 +7685,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 17,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7700,12 +7700,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 18,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7715,12 +7715,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 19,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7730,12 +7730,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 20,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -7745,12 +7745,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 21,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7760,12 +7760,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 22,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7775,12 +7775,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 23,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7790,12 +7790,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 24,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7805,12 +7805,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 25,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7820,12 +7820,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 26,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7835,12 +7835,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 27,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -7850,12 +7850,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 28,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7865,12 +7865,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 29,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -7880,12 +7880,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 30,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -7895,12 +7895,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 31,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7910,12 +7910,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 32,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7925,12 +7925,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 33,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -7940,12 +7940,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 34,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -7955,12 +7955,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 35,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -7970,12 +7970,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 36,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -7985,12 +7985,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 37,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8000,12 +8000,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 38,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8015,12 +8015,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 39,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8030,12 +8030,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 40,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -8045,12 +8045,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 41,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8060,12 +8060,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 42,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8075,12 +8075,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 43,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8090,12 +8090,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 44,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8105,12 +8105,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 45,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8120,12 +8120,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 46,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8135,12 +8135,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 47,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8150,12 +8150,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 48,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -8165,12 +8165,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 49,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8180,12 +8180,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 50,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8195,12 +8195,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 51,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -8210,12 +8210,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 52,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8225,12 +8225,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 53,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8240,12 +8240,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 54,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8255,12 +8255,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 55,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -8270,12 +8270,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 56,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8285,12 +8285,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 57,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8300,12 +8300,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 58,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8315,12 +8315,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8330,12 +8330,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 60,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8345,12 +8345,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8360,12 +8360,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 62,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8375,12 +8375,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 63,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8390,12 +8390,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 64,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -8405,12 +8405,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 65,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8420,12 +8420,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 66,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8435,12 +8435,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8450,12 +8450,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 68,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -8465,12 +8465,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 69,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8480,12 +8480,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 70,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8495,12 +8495,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 71,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -8510,12 +8510,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 72,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8525,12 +8525,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 73,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8540,12 +8540,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 74,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8555,12 +8555,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 75,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -8570,12 +8570,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 76,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8585,12 +8585,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 77,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8600,12 +8600,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 78,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8615,12 +8615,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 79,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8630,12 +8630,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 80,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -8645,12 +8645,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 81,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8660,12 +8660,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 82,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8675,12 +8675,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 83,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -8690,12 +8690,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 84,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8705,12 +8705,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 85,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8720,12 +8720,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 86,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8735,12 +8735,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 87,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -8750,12 +8750,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 88,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8765,12 +8765,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 89,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8780,12 +8780,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 90,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -8795,12 +8795,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 91,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8810,12 +8810,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 92,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8825,12 +8825,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 93,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -8840,12 +8840,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 94,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8855,12 +8855,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 95,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -8870,12 +8870,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 96,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8885,12 +8885,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 97,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8900,12 +8900,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 98,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -8915,12 +8915,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 99,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         }
       ],
       [
@@ -8932,12 +8932,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 1,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "buffer",
@@ -8947,12 +8947,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 2,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "buffer",
@@ -8962,12 +8962,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 3,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -8977,12 +8977,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 4,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -8992,12 +8992,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9007,12 +9007,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 6,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9022,12 +9022,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 7,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -9037,12 +9037,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9052,12 +9052,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 9,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9067,12 +9067,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 10,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9082,12 +9082,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 11,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9097,12 +9097,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 12,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9112,12 +9112,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 13,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9127,12 +9127,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9142,12 +9142,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 15,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9157,12 +9157,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 16,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9172,12 +9172,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 17,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9187,12 +9187,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 18,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9202,12 +9202,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 19,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9217,12 +9217,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 20,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9232,12 +9232,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 21,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9247,12 +9247,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 22,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9262,12 +9262,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 23,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9277,12 +9277,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 24,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9292,12 +9292,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 25,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9307,12 +9307,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 26,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9322,12 +9322,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 27,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9337,12 +9337,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 28,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9352,12 +9352,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 29,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9367,12 +9367,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 30,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9382,12 +9382,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 31,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9397,12 +9397,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 32,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9412,12 +9412,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 33,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9427,12 +9427,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 34,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9442,12 +9442,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 35,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9457,12 +9457,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 36,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9472,12 +9472,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 37,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9487,12 +9487,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 38,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9502,12 +9502,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 39,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9517,12 +9517,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 40,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9532,12 +9532,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 41,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9547,12 +9547,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 42,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9562,12 +9562,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 43,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9577,12 +9577,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 44,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9592,12 +9592,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 45,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9607,12 +9607,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 46,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9622,12 +9622,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 47,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9637,12 +9637,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 48,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9652,12 +9652,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 49,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9667,12 +9667,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 50,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9682,12 +9682,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 51,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -9697,12 +9697,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 52,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9712,12 +9712,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 53,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9727,12 +9727,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 54,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9742,12 +9742,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 55,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -9757,12 +9757,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 56,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9772,12 +9772,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 57,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9787,12 +9787,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 58,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9802,12 +9802,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 59,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -9817,12 +9817,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 60,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -9832,12 +9832,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 61,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9847,12 +9847,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 62,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9862,12 +9862,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 63,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -9877,12 +9877,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 64,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9892,12 +9892,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 65,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -9907,12 +9907,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 66,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -9922,12 +9922,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -9937,12 +9937,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 68,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -9952,12 +9952,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 69,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -9967,12 +9967,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 70,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -9982,12 +9982,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 71,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -9997,12 +9997,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 72,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10012,12 +10012,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 73,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10027,12 +10027,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 74,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10042,12 +10042,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 75,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -10057,12 +10057,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 76,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10072,12 +10072,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 77,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10087,12 +10087,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 78,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10102,12 +10102,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 79,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10117,12 +10117,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 80,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10132,12 +10132,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 81,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10147,12 +10147,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 82,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10162,12 +10162,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 83,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10177,12 +10177,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 84,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10192,12 +10192,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 85,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10207,12 +10207,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 86,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10222,12 +10222,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 87,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10237,12 +10237,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 88,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10252,12 +10252,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 89,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10267,12 +10267,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 90,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10282,12 +10282,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 91,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10297,12 +10297,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 92,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10312,12 +10312,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 93,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10327,12 +10327,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 94,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10342,12 +10342,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 95,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10357,12 +10357,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 96,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10372,12 +10372,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 97,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10387,12 +10387,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 98,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10402,12 +10402,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 99,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         }
       ],
       [
@@ -10419,12 +10419,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 1,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "buffer",
@@ -10434,12 +10434,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 2,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "buffer",
@@ -10449,12 +10449,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 3,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10464,12 +10464,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 4,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10479,12 +10479,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 5,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10494,12 +10494,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 6,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -10509,12 +10509,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 7,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10524,12 +10524,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 8,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10539,12 +10539,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 9,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10554,12 +10554,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 10,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10569,12 +10569,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 11,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10584,12 +10584,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 12,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10599,12 +10599,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 13,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10614,12 +10614,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 14,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -10629,12 +10629,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 15,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10644,12 +10644,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 16,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10659,12 +10659,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 17,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10674,12 +10674,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 18,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10689,12 +10689,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 19,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10704,12 +10704,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 20,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10719,12 +10719,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 21,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10734,12 +10734,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 22,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10749,12 +10749,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 23,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10764,12 +10764,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 24,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10779,12 +10779,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 25,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -10794,12 +10794,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 26,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -10809,12 +10809,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 27,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -10824,12 +10824,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 28,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10839,12 +10839,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 29,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10854,12 +10854,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 30,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10869,12 +10869,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 31,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10884,12 +10884,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 32,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -10899,12 +10899,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 33,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10914,12 +10914,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 34,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -10929,12 +10929,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 35,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -10944,12 +10944,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 36,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -10959,12 +10959,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 37,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -10974,12 +10974,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 38,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -10989,12 +10989,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 39,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -11004,12 +11004,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 40,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -11019,12 +11019,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 41,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11034,12 +11034,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 42,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11049,12 +11049,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 43,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11064,12 +11064,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 44,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -11079,12 +11079,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 45,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11094,12 +11094,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 46,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11109,12 +11109,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 47,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -11124,12 +11124,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 48,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11139,12 +11139,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 49,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11154,12 +11154,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 50,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11169,12 +11169,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 51,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -11184,12 +11184,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 52,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11199,12 +11199,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 53,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11214,12 +11214,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 54,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11229,12 +11229,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 55,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -11244,12 +11244,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 56,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11259,12 +11259,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 57,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11274,12 +11274,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 58,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11289,12 +11289,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 59,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11304,12 +11304,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 60,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11319,12 +11319,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 61,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11334,12 +11334,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 62,
-          "pairing": "1-8",
-          "prime": "prime8",
+          "pairing": "1-9",
+          "prime": "prime9",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11349,12 +11349,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 63,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11364,12 +11364,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 64,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11379,12 +11379,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 65,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11394,12 +11394,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 66,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11409,12 +11409,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 67,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -11424,12 +11424,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 68,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11439,12 +11439,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 69,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11454,12 +11454,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 70,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11469,12 +11469,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 71,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11484,12 +11484,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 72,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -11499,12 +11499,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 73,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11514,12 +11514,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "incongruent",
           "trial_number": 74,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
-          "probe": "probe8",
-          "correct_response": "8",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_inc"
+          "name": "1-9_inc"
         },
         {
           "role": "analysed",
@@ -11529,12 +11529,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 75,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11544,12 +11544,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 76,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -11559,12 +11559,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 77,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11574,12 +11574,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 78,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11589,12 +11589,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 79,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11604,12 +11604,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 80,
-          "pairing": "3-6",
-          "prime": "prime6",
-          "probe": "probe6",
-          "correct_response": "6",
+          "pairing": "3-7",
+          "prime": "prime7",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11619,12 +11619,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 81,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11634,12 +11634,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 82,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11649,12 +11649,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 83,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
-          "probe": "probe7",
-          "correct_response": "7",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         },
         {
           "role": "analysed",
@@ -11664,12 +11664,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 84,
-          "pairing": "3-6",
-          "prime": "prime6",
+          "pairing": "3-7",
+          "prime": "prime7",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -11679,12 +11679,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 85,
-          "pairing": "4-5",
-          "prime": "prime5",
+          "pairing": "4-6",
+          "prime": "prime6",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11694,12 +11694,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 86,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11709,12 +11709,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 87,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11724,12 +11724,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 88,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11739,12 +11739,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 89,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
           "probe": "probe4",
           "correct_response": "4",
           "target_index": 0,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11754,12 +11754,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 90,
-          "pairing": "1-8",
+          "pairing": "1-9",
           "prime": "prime1",
           "probe": "probe1",
           "correct_response": "1",
           "target_index": 0,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11769,12 +11769,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 91,
-          "pairing": "2-7",
+          "pairing": "2-8",
           "prime": "prime2",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11784,12 +11784,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "incongruent",
           "trial_number": 92,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
-          "probe": "probe6",
-          "correct_response": "6",
+          "probe": "probe7",
+          "correct_response": "7",
           "target_index": 1,
-          "name": "3-6_inc"
+          "name": "3-7_inc"
         },
         {
           "role": "analysed",
@@ -11799,12 +11799,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "congruent",
           "trial_number": 93,
-          "pairing": "4-5",
-          "prime": "prime5",
-          "probe": "probe5",
-          "correct_response": "5",
+          "pairing": "4-6",
+          "prime": "prime6",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_con"
+          "name": "4-6_con"
         },
         {
           "role": "analysed",
@@ -11814,12 +11814,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 94,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11829,12 +11829,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "congruent",
           "trial_number": 95,
-          "pairing": "2-7",
-          "prime": "prime7",
-          "probe": "probe7",
-          "correct_response": "7",
+          "pairing": "2-8",
+          "prime": "prime8",
+          "probe": "probe8",
+          "correct_response": "8",
           "target_index": 1,
-          "name": "2-7_con"
+          "name": "2-8_con"
         },
         {
           "role": "analysed",
@@ -11844,12 +11844,12 @@ const prime_probe_trials = {
           "subcategory": 2,
           "congruency": "congruent",
           "trial_number": 96,
-          "pairing": "3-6",
+          "pairing": "3-7",
           "prime": "prime3",
           "probe": "probe3",
           "correct_response": "3",
           "target_index": 0,
-          "name": "3-6_con"
+          "name": "3-7_con"
         },
         {
           "role": "analysed",
@@ -11859,12 +11859,12 @@ const prime_probe_trials = {
           "subcategory": 3,
           "congruency": "incongruent",
           "trial_number": 97,
-          "pairing": "4-5",
+          "pairing": "4-6",
           "prime": "prime4",
-          "probe": "probe5",
-          "correct_response": "5",
+          "probe": "probe6",
+          "correct_response": "6",
           "target_index": 1,
-          "name": "4-5_inc"
+          "name": "4-6_inc"
         },
         {
           "role": "analysed",
@@ -11874,12 +11874,12 @@ const prime_probe_trials = {
           "subcategory": 0,
           "congruency": "congruent",
           "trial_number": 98,
-          "pairing": "1-8",
-          "prime": "prime8",
-          "probe": "probe8",
-          "correct_response": "8",
+          "pairing": "1-9",
+          "prime": "prime9",
+          "probe": "probe9",
+          "correct_response": "9",
           "target_index": 1,
-          "name": "1-8_con"
+          "name": "1-9_con"
         },
         {
           "role": "analysed",
@@ -11889,12 +11889,12 @@ const prime_probe_trials = {
           "subcategory": 1,
           "congruency": "incongruent",
           "trial_number": 99,
-          "pairing": "2-7",
-          "prime": "prime7",
+          "pairing": "2-8",
+          "prime": "prime8",
           "probe": "probe2",
           "correct_response": "2",
           "target_index": 0,
-          "name": "2-7_inc"
+          "name": "2-8_inc"
         }
       ]
     ]

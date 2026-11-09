@@ -3,18 +3,18 @@ const experiment_text = {"hun":{
 	"probe2": "2",
 	"probe3": "3",
 	"probe4":"4",
-	"probe5": "5",
 	"probe6": "6",
 	"probe7": "7",
 	"probe8": "8",
+	"probe9": "9",
 	"prime1":"1<br>1<br>1",
 	"prime2":"2<br>2<br>2",
 	"prime3":"3<br>3<br>3",
 	"prime4":"4<br>4<br>4",
-	"prime5":"5<br>5<br>5",
 	"prime6":"6<br>6<br>6",
 	"prime7":"7<br>7<br>7",
 	"prime8":"8<br>8<br>8",
+	"prime9":"9<br>9<br>9",
     "welcome":`<img src="images/University_logo.png" alt="images/University Logo" style="width: 300px; display: block; margin: auto;">
 	<h2>Üdvözlünk a Metatudomány kutatócsoport vizsgálatában!</h2>
                 <p>Egy tudományos kutatásban veszel részt, amelynek vezetője Bognár Miklós, az ELTE Affektív Pszichológia Tanszékének kutatója.</p>
@@ -62,20 +62,20 @@ const experiment_text = {"hun":{
 	"gender_options":["Férfi", "Nő", "Nem-bináris", "Nem szeretném megosztani"],
 	"instruction":`<h2>Instrukciók</h2>
                 <p>
-                A kísérlet során számingereket fogsz látni (1, 2, 3, 4, 5, 6, 7, 8). Először egy prime inger fog megjelenni a képernyőn, amin egy szám (pl.: „1”) lesz olvasható egymás alatt háromszor. 
-                Ezt követően megjelenik a célinger, amely a prime ingerrel azonos („1”), vagy pedig nem megegyező („8”) lesz.
+                A kísérlet során számingereket fogsz látni (1, 2, 3, 4, 6, 7, 8, 9). Először egy prime inger fog megjelenni a képernyőn, amin egy szám (pl.: „1”) lesz olvasható egymás alatt háromszor. 
+                Ezt követően megjelenik a célinger, amely a prime ingerrel azonos („1”), vagy pedig nem megegyező („9”) lesz.
                 A feladatod az lesz, hogy minél gyorsabban és pontosabban eltaláld a célinger számát a hozzárendelt billentyű megnyomásával.</p>
 								<h3>Figyelem: A pontszerzés feltétele, hogy az ingerek minimum 60%-át helyesen megválaszold.</h3>
 								<h3>60%-os teljesítmény alatt (túl lassú, vagy pontatlan válaszoknál) 0 pontot kapsz a kísérletre. </h3>
                 <p>Kérlek helyezd a billentyűzetre a kezedet a képen látható módon:</p>
                 <p>A bal kisujjadat tedd az <span class='key'>1</span>-re.
-                A jobb kisujjadat a <span class='key'>8</span>-ra.
+                A jobb kisujjadat a <span class='key'>9</span>-re.
                 A bal gyűrűsujjadat helyezd a <span class='key'>2</span>-re. 
-                A jobb gyűrűsujjadat tedd a <span class='key'>7</span>-re.
+                A jobb gyűrűsujjadat tedd a <span class='key'>8</span>-ra.
 				A bal középső ujjadat helyezd a <span class='key'>3</span>-ra.
-				A jobb középső ujjadat helyezd a <span class='key'>6</span>-ra.
+				A jobb középső ujjadat helyezd a <span class='key'>7</span>-re.
 				A bal mutatóujjadat helyezd a <span class='key'>4</span>-re.
-				A jobb mutatóujjadat pedig tedd az <span class='key'>5</span>-re.</p>
+				A jobb mutatóujjadat pedig tedd az <span class='key'>6</span>-ra.</p>
                 <img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: 40%;">
                 <p style="text-align: center;"><em>Amennyiben készen állsz a kísérlet megkezdésére, nyomd meg a space billentyűt!</em></p>`,
 "practice_instruction":`<h2>Gyakorló blokk</h2>
@@ -99,18 +99,18 @@ const experiment_text = {"hun":{
 	"probe2": "2",
 	"probe3": "3",
 	"probe4":"4",
-	"probe5": "5",
 	"probe6": "6",
 	"probe7": "7",
 	"probe8": "8",
+	"probe9": "9",
 	"prime1":"1<br>1<br>1",
 	"prime2":"2<br>2<br>2",
 	"prime3":"3<br>3<br>3",
 	"prime4":"4<br>4<br>4",
-	"prime5":"5<br>5<br>5",
 	"prime6":"6<br>6<br>6",
 	"prime7":"7<br>7<br>7",
 	"prime8":"8<br>8<br>8",
+	"prime9":"9<br>9<br>9",
 	"welcome":`<img src="images/University_logo.png" alt="University Logo" style="width: 300px; display: block; margin: auto;">
 				<h2>Welcome to the study of the Metascience lab!</h2>
 				<p>You are taking part in a scientific study led by Miklós Bognár, a researcher at the Department of Affective Psychology at Eötvös Loránd University (ELTE).</p>
@@ -161,20 +161,20 @@ const experiment_text = {"hun":{
 	"gender_options": ["Male", "Female", "Non-binary", "Prefer not to say"],
 	"instruction":`<h2>Instrukciók</h2>
     	<p>
-    	During this experiment you will see numerical stimuli (1, 2, 3, 4, 5, 6, 7, 8). First, a prime stimulus will appear on the screen, showing a single number (e.g., "1") repeated three times, one below the other.
-    	Next, the target stimulus will appear. It will be either identical to the prime ("1") or different from it ("8").
+    	During this experiment you will see numerical stimuli (1, 2, 3, 4, 6, 7, 8, 9). First, a prime stimulus will appear on the screen, showing a single number (e.g., "1") repeated three times, one below the other.
+    	Next, the target stimulus will appear. It will be either identical to the prime ("1") or different from it ("9").
 		Your task is to identify the number shown in the target stimulus as quickly and as accurately as possible by pressing the key assigned to it.</p>
 		<h3>Attention: To earn credit, you must respond correctly to at least 60% of the stimuli.</h3>
 		<h3>If your performance falls below 60% (because your responses are too slow or inaccurate), you will receive 0 points for the experiment.</h3>
 		<p>Please place your hands on the keyboard as shown in the picture:</p>
 		<p>Place your left little finger on <span class='key'>1</span>.
-		Your right little finger on <span class='key'>8</span>.
+		Your right little finger on <span class='key'>9</span>.
 		Place your left ring finger on <span class='key'>2</span>.
-		Place your right ring finger on <span class='key'>7</span>.
+		Place your right ring finger on <span class='key'>8</span>.
 		Place your left middle finger on <span class='key'>3</span>.
-		Place your right middle finger on <span class='key'>6</span>.
+		Place your right middle finger on <span class='key'>7</span>.
 		Place your left index finger on <span class='key'>4</span>.
-		Place your right index finger on <span class='key'>5</span>.</p>
+		Place your right index finger on <span class='key'>6</span>.</p>
 		<img src="images/instruction_pic.png" alt="Hand placement instructions" style="width: 40%; height: 40%;">
 		<p style="text-align: center;"><em>When you are ready to begin the experiment, press the space bar.</em></p>`,
 "practice_instruction":`<h2>Practice Block</h2>
@@ -204,6 +204,6 @@ When you are ready, press the space bar to begin.</p>
 				<p style="text-align: center;"><em>When you are ready to begin the main experiment, press the spacebar!</em></p></div>`,
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Dear Participant!</h3></p>
-				<p>Thank you for participating in our study! In this experiment, we were interested in how.</p>
+				<p>Thank you for participating in our study!</p>
 				<p>If you have any comments or questions about the study, please contact us at <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a></p>`
 }}

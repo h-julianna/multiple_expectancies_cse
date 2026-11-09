@@ -91,7 +91,7 @@ const probe = {
 	    console.log(probestim)
 	    myprobe = experiment_text[lang][probestim]
         return `<span style="font-size:7vh; line-height: 0.9; color:white;">${myprobe}</span>`},
-    choices: ['1', '2', '3', '4', '5', '6', '7', '8'],
+    choices: ['1', '2', '3', '4', '6', '7', '8', '9'],
     stimulus_duration: durations.probe_stim_duration,
     trial_duration: durations.probe_trial_duration,
     response_ends_trial: false,
@@ -356,7 +356,7 @@ const experiment_end = {
     choices: [experiment_text[lang]["finish"]],
 };
 
-timeline.push(...practice_experiment());
+timeline.push(...practice_experiment(debug, lang));
 timeline.push(...experimental_blocks, experiment_end);
 jsPsych.run(timeline);
 }
@@ -379,7 +379,7 @@ try {
 	var lang = urlParams.get("lang") || "hun";
 	var debug = urlParams.get("debug") === "1" ? 1 : 0;
 	    console.log("Jatos was NOT loaded, starting experiment in vanilla mode...")
-	my_timeline = main_experiment(debug = 1, lang = "hun", experiment_text) 
+	my_timeline = main_experiment(debug = 0, lang = "hun", experiment_text) 
 	startExperiment(my_timeline)
 	    console.log("started experiment")
 
