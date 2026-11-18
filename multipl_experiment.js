@@ -181,34 +181,34 @@ timeline.push(fullscreen_trial);
 var consentTrial = {
     type: jsPsychSurveyMultiChoice,
     preamble: function () {
-        if (language == "hun") {
+        if (lang == "hun") {
             return experiment_text[lang]["informed_consent"]
         }
-        else if (language == "eng") {
+        else if (lang == "eng") {
             return experiment_text[lang]["informed_consent"]
         }
     },
     questions: [{
         prompt: function () {
-            if (language == "hun") {
+            if (lang == "hun") {
                 return `A beleegyező nyilatkozatot elolvastam és beleegyezem a kutatásban való részvételbe.`
             }
-            else if (language == "eng") {
+            else if (lang == "eng") {
                 return `I have read the consent form and I agree to participate in the study.`
             }
         },
         name: "consent",
         options: function () {
-            if (language == "hun") { return ['Igen', 'Nem'] }
-            else if (language == "eng") { return ['Yes', 'No'] }
+            if (lang == "hun") { return ['Igen', 'Nem'] }
+            else if (lang == "eng") { return ['Yes', 'No'] }
         },
         required: true
     }],
     button_label: function () {
-        if (language == "hun") {
+        if (lang == "hun") {
             return "Folytatás"
         }
-        else if (language == "EN") {
+        else if (lang == "EN") {
             return "Continue"
         }
     },
@@ -223,10 +223,10 @@ var consentReject = {
     timeline: [{
         type: jsPsychHtmlKeyboardResponse,
         stimulus: function () {
-            if (language == "hun") {
+            if (lang == "hun") {
                 return `<p> Megértjük a döntésed, a kísérlet számodra véget ért. Bezárhatod az ablakot a böngésződben.</p>`
             }
-            else if (language == "eng") {
+            else if (lang == "eng") {
                 return `<p> We understand your decision. The experiment has eneded for you. You may close this tab in your browser. </p>`
             }
         },
