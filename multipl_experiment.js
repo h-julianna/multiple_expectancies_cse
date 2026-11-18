@@ -178,21 +178,69 @@ const fullscreen_trial = {
 
 timeline.push(fullscreen_trial);
 
-//Informed consent
-const informed_consent_trial = {
-    type:jsPsychHtmlButtonResponse,
-    stimulus: experiment_text[lang]["informed_consent"],
-    choices: experiment_text[lang]["yes/no"],
-    response_ends_trial: true,
-        on_finish: function(data) {
-            if (data.response == 1) {
-                jsPsych.abortExperiment(`<p style="text-align: justify; max-width: 800px; margin: auto; font-size: 24px; font-weight: bold"> 
-                    ${lang === "eng" ? "The experiment is over. Thank you for participating in the study!" : "A kísérlet véget ért. Köszönjük, hogy részt vettél a vizsgálatban!"}</p>`);
-            }
+var consentTrial = {
+    type: jsPsychSurveyMultiChoice,
+    preamble: function () {
+        if (language == "hun") {
+            return experiment_text[lang]["informed_consent"]
         }
+        else if (language == "eng") {
+            return experiment_text[lang]["informed_consent"]
+        }
+    },
+    questions: [{
+        prompt: function () {
+            if (language == "hun") {
+                return `A beleegyező nyilatkozatot elolvastam és beleegyezem a kutatásban való részvételbe.`
+            }
+            else if (language == "eng") {
+                return `I have read the consent form and I agree to participate in the study.`
+            }
+        },
+        name: "consent",
+        options: function () {
+            if (language == "hun") { return ['Igen', 'Nem'] }
+            else if (language == "eng") { return ['Yes', 'No'] }
+        },
+        required: true
+    }],
+    button_label: function () {
+        if (language == "hun") {
+            return "Folytatás"
+        }
+        else if (language == "EN") {
+            return "Continue"
+        }
+    },
+    data: { collect: true },
+    on_finish: function (data) {
+        consentResponse = data.response.consent;
+    }
 }
 
-timeline.push(informed_consent_trial);
+
+var consentReject = {
+    timeline: [{
+        type: jsPsychHtmlKeyboardResponse,
+        stimulus: function () {
+            if (language == "hun") {
+                return `<p> Megértjük a döntésed, a kísérlet számodra véget ért. Bezárhatod az ablakot a böngésződben.</p>`
+            }
+            else if (language == "eng") {
+                return `<p> We understand your decision. The experiment has eneded for you. You may close this tab in your browser. </p>`
+            }
+        },
+        choices: 'NO_KEYS'
+    }],
+    conditional_function: function () {
+        if (["No", "Nem"].includes(consentResponse) == true) {
+            return true
+        }
+        else { return false }
+    }
+}
+
+timeline.push(consentTrial, consentReject);
 
 //Data handling and informed consent
 const data_handling_trial = {   
