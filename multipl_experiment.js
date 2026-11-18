@@ -12,7 +12,7 @@ let urlParams = new URLSearchParams(queryString);
     const jsPsych = initJsPsych({
         on_finish: () => {
             try {jatos.endStudyAndRedirect(
-                    "link here", 
+                    "https://kszdb.metasciencelab.hu/complete/40/rTttnDhlxXBqcBTHSlLYkG3dEHxePJQ-JtB_s1kdqPA",
             jsPsych.data.get().csv()
                 );
 	    }catch{
