@@ -17,16 +17,16 @@ const experiment_text = {"hun":{
 	"prime9":"9<br>9<br>9",
     "welcome":`<img src="images/University_logo.png" alt="images/University Logo" style="width: 300px; display: block; margin: auto;">
 	<h2>Üdvözlünk a Metatudomány kutatócsoport vizsgálatában!</h2>
-                <p>Egy tudományos kutatásban veszel részt, amelynek vezetője Bognár Miklós, az ELTE Affektív Pszichológia Tanszékének kutatója.</p>
+                <p>Egy tudományos kutatásban veszel részt, amelynek vezetője Bognár Miklós és Harangozó Julianna, az ELTE Affektív Pszichológia Tanszékének kutatói.</p>
               <h3>Részvétel</h3>
                 <p>A kutatásban való részvétel teljesen önkéntes. A vizsgálatot bármikor indoklás nélkül megszakíthatod. FIGYELEM: A KÍSÉRLET VILLÓDZÓ FÉNYEKET TARTALMAZ. 
-                Ha bármilyen kérdésed, észrevételed vagy problémád van a kutatással kapcsolatban, írj Bognár Miklósnak a <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a> címre.</p>`,
+                Ha bármilyen kérdésed, észrevételed vagy problémád van a kutatással kapcsolatban, írj Harangozó Juliannának a <a href="mailto:h-j-julianna.student.elte.hu">h-j-julianna.student.elte.hu</a> címre.</p>`,
 	"button_press":`Tovább`,
 	"yes/no": ["Igen", "Nem"],
 	"finish":`Vége`,
 	"fullscreen":`<p>A kísérlet teljes képernyős módra vált.</p>`,
 	"informed_consent":`<h2>Beleegyező nyilatkozat</h2>
-                <p>Felelősségem teljes tudatában kijelentem, hogy a mai napon az Eötvös Loránd Tudományegyetem, Bognár Miklós kutatásvezető által végzett vizsgálatban</p>
+                <p>Felelősségem teljes tudatában kijelentem, hogy a mai napon az Eötvös Loránd Tudományegyetem, Bognár Miklós és Harangozó Julianna kutatásvezetők által végzett vizsgálatban</p>
                  <ul>
                     <li>önként veszek részt.</li>
                     <li>a vizsgálat jellegéről, annak megkezdése előtt kielégítő tájékoztatást kaptam.</li>
@@ -93,7 +93,7 @@ const experiment_text = {"hun":{
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Kedves Résztvevő!</h3></p>
 				<p>Köszönjük, hogy részt vettél a kutatásunkban!</p>
-				<p>Ha bármilyen észrevételed, vagy kérdésed lenne a kutatással kapcsolatban írj a <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a>címre!</p>`},
+				<p>Ha bármilyen észrevételed, vagy kérdésed lenne a kutatással kapcsolatban írj a <a href="mailto:h-j-julianna.student.elte.hu">h-j-julianna.student.elte.hu</a>címre!</p>`},
 "eng":{
 	"probe1": "1",
 	"probe2": "2",
@@ -113,10 +113,10 @@ const experiment_text = {"hun":{
 	"prime9":"9<br>9<br>9",
 	"welcome":`<img src="images/University_logo.png" alt="University Logo" style="width: 300px; display: block; margin: auto;">
 				<h2>Welcome to the study of the Metascience lab!</h2>
-				<p>You are taking part in a scientific study led by Miklós Bognár, a researcher at the Department of Affective Psychology at Eötvös Loránd University (ELTE).</p>
+				<p>You are taking part in a scientific study led by Miklós Bognár and Julianna Harangozó, researchers at the Department of Affective Psychology at Eötvös Loránd University (ELTE).</p>
 				<h3>Participation</h3>
 				<p>Participation in this study is entirely voluntary. You may withdraw from the study at any time without providing a reason. ATTENTION: This experiment contains flashing lights.
-				If you have any questions, comments, or concerns regarding the study, please contact Miklós Bognár at <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a>.</p>`,
+				If you have any questions, comments, or concerns regarding the study, please contact Julianna Harangozó at <a href="mailto:h-j-julianna.student.elte.hu">h-j-julianna.student.elte.hu</a>.</p>`,
 	"button_press":`Continue`,
 	"yes/no": ["Yes", "No"],
 	"finish":`Finish`,
@@ -124,7 +124,7 @@ const experiment_text = {"hun":{
 	"informed_consent":`<h2>Informed Consent</h2>
 				<p>With full awareness of my responsibility, I consent to the use of the data collected about me during the study that do not allow for my personal identification to be made available to other researchers.
 				I reserve the right to withdraw from the study at any time during the course of the experiment.
-				I declare that today I am participating in a study conducted at Eötvös Loránd University under the supervision of the principal investigator, Miklós Bognár, and that:</p>
+				I declare that today I am participating in a study conducted at Eötvös Loránd University under the supervision of the principal investigator, Miklós Bognár and Julianna Harangozó and that:</p>
 				<ul>
 				<li>I am participating voluntarily.</li>
 				<li>I received adequate information about the nature of the study prior to its commencement.</li>
@@ -205,5 +205,4 @@ When you are ready, press the space bar to begin.</p>
 	"debrief":`<div style="text-align: center; max-width: 800px; margin: auto; font-size: 24px;">
 				<p style="font-weight: bold; font-size: 28px; margin-bottom: 25px;"> <h3>Dear Participant!</h3></p>
 				<p>Thank you for participating in our study!</p>
-				<p>If you have any comments or questions about the study, please contact us at <a href="mailto:bognar.miklos@ppk.elte.hu">bognar.miklos@ppk.elte.hu</a></p>`
-}}
+				<p>If you have any comments or questions about the study, please contact us at <a href="mailto:h-j-julianna.student.elte.hu">h-j-julianna.student.elte.hu</a></p>`}}
